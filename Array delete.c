@@ -1,4 +1,4 @@
-//delete
+//Delete
 #include<stdio.h>
 int main(){
 
@@ -11,7 +11,7 @@ printf("Enter elements: ");
 for(i=0;i<s;i++){
 scanf("%d", &arr[i]);
 }
-
+//
 printf("Enter position for delete: ");
 scanf("%d", &p);
 

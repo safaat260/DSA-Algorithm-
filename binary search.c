@@ -1,4 +1,4 @@
-//binary search
+//Binary search
 #include<stdio.h>
 int main (){
 
@@ -12,7 +12,7 @@ int main (){
     for(int i=0; i<n; i++){
         scanf("%d",&arr[i]);
    }
-
+//
    printf("The value to search :");
    scanf("%d",&key);
 

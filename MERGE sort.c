@@ -30,7 +30,7 @@ void mergeSort(int A[], int low, int high) {
         }
     }
 }
-
+//
 int main() {
     int n;
     printf("Enter the number of elements: ");

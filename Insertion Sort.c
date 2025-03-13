@@ -6,7 +6,7 @@ int arr[10], s, i, j, temp;
 
 printf("Enter array size: ");
 scanf("%d", &s);
-
+//
 printf("Enter elements: ");
 for(i = 0; i < s; i++){
     scanf("%d", &arr[i]);

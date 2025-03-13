@@ -29,7 +29,7 @@ int main() {
             a[min] = temp;
         }
     }
-
+//
     printf("Sorted array by selection sort: ");
     for (i = 0; i < n; i++) {
         printf("%d ", a[i]);

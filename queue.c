@@ -27,7 +27,7 @@ void enqueue(int x)
         printf("Value %d is enqued in queue\n", x);
     }
 }
-
+//
 void dequeue()
 {
     if (front == -1 && rear == -1)
