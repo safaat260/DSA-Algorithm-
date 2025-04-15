@@ -17,6 +17,7 @@ void bubbleSort(int weight[], int profit[], double ratio[], int n) {
             } 
         } 
     } 
+    
 } 
 void fractionalKnapsack(int capacity, int weight[], int profit[], double ratio[], int n) { 
     bubbleSort(weight, profit, ratio, n); 
