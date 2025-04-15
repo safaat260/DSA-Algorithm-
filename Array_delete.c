@@ -24,5 +24,6 @@ for(i=0;i<s-1;i++){
     printf("%d ", arr[i]);
 }
 
+
 //check
 }
